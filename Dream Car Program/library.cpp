@@ -14,7 +14,7 @@ bool collect_car_data(Automobile a[], int &i){
      cout <<"Sorry file can't be open";
     return false;
    }
-    cout << "\nSuccess! File is open!\n";
+   // cout << "\nSuccess! File is open!\n";
     i = 0;
     string website;
     getline(file,website);
