@@ -37,6 +37,6 @@ Sample Program
 
 Below is an example of the Dream Car Program running in the terminal.
 
-Main change: I kept the original README content and organization, but left out the image code so you can paste this directly and then keep your existing sample-run image underneath.
+
 
 <img width="993" alt="Screenshot 2025-04-14 at 7 39 38 PM" src="https://github.com/user-attachments/assets/687364d5-885b-4c41-8254-6fd1554bdfbe" />
