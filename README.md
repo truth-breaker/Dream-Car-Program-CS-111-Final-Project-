@@ -1,41 +1,55 @@
-🚗 Dream Car Program
+<h1>🚗 Dream Car Program</h1>
 
+<p>
 The Dream Car Program is an interactive C++ application that allows users to explore, search, filter, and compare cars to help find their dream car.
+</p>
 
+<p>
 The program reads vehicle information from a data file and organizes the data using structured arrays. Users interact with the program through a menu in the terminal.
+</p>
 
-Features
+<h2>Features</h2>
 
-Users can:
+<p>Users can:</p>
 
-View all available cars
-Sort cars from lowest to highest price
-Search and filter cars by different criteria
-Compare two cars
-Find the lowest and highest car prices
-View horsepower information
-Remove specific car types from the results
-Explore statistics about the available vehicles
-Technologies and Concepts
+<ul>
+  <li>View all available cars</li>
+  <li>Sort cars from lowest to highest price</li>
+  <li>Search and filter cars by different criteria</li>
+  <li>Compare two cars</li>
+  <li>Find the lowest and highest car prices</li>
+  <li>View horsepower information</li>
+  <li>Remove specific car types from the results</li>
+  <li>Explore statistics about the available vehicles</li>
+</ul>
 
-This project was built using:
+<h2>Technologies and Concepts</h2>
 
-C++
-File input and output
-Structured arrays
-Functions
-Searching algorithms
-Sorting algorithms
-Filtering
-Data comparison
-Menu-driven user interaction
-What I Learned
+<p>This project was built using:</p>
 
+<ul>
+  <li>C++</li>
+  <li>File input and output</li>
+  <li>Structured arrays</li>
+  <li>Functions</li>
+  <li>Searching algorithms</li>
+  <li>Sorting algorithms</li>
+  <li>Filtering</li>
+  <li>Data comparison</li>
+  <li>Menu-driven user interaction</li>
+</ul>
+
+<h2>What I Learned</h2>
+
+<p>
 This project helped me practice working with structured datasets in C++ and organizing a larger program into reusable functions. I also learned how searching, sorting, and filtering algorithms can be used to turn raw data into an interactive program that helps users make comparisons and decisions.
+</p>
 
-Sample Program
+<h2>Sample Program</h2>
 
+<p>
 Below is an example of the Dream Car Program running in the terminal.
+</p>
 
 
 
